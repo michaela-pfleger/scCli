@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "ScCli\\": "lib/",
+      "Services\\": "Services/",
+      "Models\\": "Models/",
+      "Tests\\": "Tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
